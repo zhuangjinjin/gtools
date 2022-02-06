@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	result := gtools.Verificate("350521XXXXXXXXXXX8")
+	result := gtools.VerifyIdCard("350521XXXXXXXXXXX8")
 	fmt.Println(result)
 }
