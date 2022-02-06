@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	result := gtools.Verificate("350521XXXXXXXX6558")
+	result := gtools.Verificate("350521XXXXXXXXXXX8")
 	fmt.Println(result)
 }
