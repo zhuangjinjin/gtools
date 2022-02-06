@@ -1,0 +1,11 @@
+.idea
+
+server.crt
+server.key
+
+dist
+
+coverage.txt
+
+*.test
+*.prof
